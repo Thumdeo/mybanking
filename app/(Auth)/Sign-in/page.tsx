@@ -5,7 +5,7 @@ export default function RootLayout({
   }>) {
     return (
       <main>
-          SIgn
+          Sign
           {children}
       </main>
     );
